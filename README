@@ -1,0 +1,6 @@
+This is a plugin for XChat designed to work with foobar2000.
+It is a now playing script.
+It works with foobar2000 through the use of it's ability to set a copy command and assign it to a global hotkey.
+
+Instructions for compiling XChat plugins on Windows are here:
+http://xchat.org/docs/plugin20.html#win32
